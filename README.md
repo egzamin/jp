@@ -12,7 +12,7 @@
 1. Brillowski, Tomasz / 19.10
 1. Bryl, Adrian
 1. [Cichocki, Patryk](https://github.com/pcichocki/jp-zad-ug)
-1. Ciepliński, Dominik
+1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni)
 1. Czarkowska, Monika
 1. Darecki, Filip / 19.10
 1. Dawidowski, Marcin
