@@ -4,7 +4,7 @@
 1. Bachanek, Bartosz
 1. Bańkowski, Jacek
 1. Bar, Łukasz / 19.10
-1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master).
+1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master) :)
 1. Bieszke, Marek
 1. Bigus, Michał / 19.10
 1. Borawski, Rafał / 19.10
