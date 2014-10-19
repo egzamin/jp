@@ -5,7 +5,7 @@
 1. Bańkowski, Jacek
 1. Bar, Łukasz / 19.10
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master) :)
-1. [Marek Bieszke.](https://github.com/Biemark/zadania-bash) 
+1. [Marek, Bieszke](https://github.com/Biemark/zadania-bash) 
 1. Bigus, Michał / 19.10
 1. Borawski, Rafał / 19.10
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
