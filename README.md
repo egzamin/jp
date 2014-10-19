@@ -8,7 +8,7 @@
 1. Bieszke, Marek
 1. Bigus, Michał / 19.10
 1. Borawski, Rafał / 19.10
-1. Braun, Damian
+1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
 1. Brillowski, Tomasz / 19.10
 1. Bryl, Adrian
 1. Cichocki, Patryk
