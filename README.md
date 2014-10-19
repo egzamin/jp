@@ -1,6 +1,6 @@
 ## Języki programowania 2014/15
 
-1. Aleksandrowicz, Witold
+1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha)
 1. Bachanek, Bartosz
 1. Bańkowski, Jacek
 1. Bar, Łukasz / 19.10
