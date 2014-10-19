@@ -15,7 +15,7 @@
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni)
 1. Czarkowska, Monika
 1. Darecki, Filip / 19.10
-1. Dawidowski, Marcin
+1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha)
 1. Drywa, Kamil / 19.10
 1. Ferenc, Robert / 19.10
 1. Gdaniec, Mateusz / 19.10
