@@ -1,7 +1,7 @@
 ## Języki programowania 2014/15
 
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha)
-1. Bachanek, Bartosz
+1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha)
 1. Bańkowski, Jacek
 1. Bar, Łukasz / 19.10
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master) :)
