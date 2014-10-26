@@ -5,6 +5,8 @@
 | blackboard           | x     | x                |
 | whiteborad            x     | x                |
 
+TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
+
 
 ### Skróty klawiszowe
 
@@ -16,6 +18,29 @@ Swoje skróty klawiszowe ustawiamy w pliku *?*.
 | skrót | funkcja | uwagi |
 |-------|---------|-------|
 |       |         |       |
+
+
+### Snippets
+
+```sh
+apm search snippets
+```
+
+TODO
+
+
+#### Uruchamianie programów w edytorze
+
+```sh
+apm search ???
+```
+
+TODO
+
+
+### Integracja z systemem Git
+
+TODO: pakiet?, skroty klawiszowe
 
 
 ### Pakiety pomagające w pisaniu programów
