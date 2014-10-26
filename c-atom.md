@@ -1,9 +1,9 @@
 ## Przystosowujemy Atom do pracy z programami w C
 
-| przełączanie\Themes | nazwa | skrót klawiszowy |
-|---------------------|-------|------------------|
-| blackboard          | x     | x                |
-| whiteborad          | x     | x                |
+| przełączanie\nThemes | nazwa | skrót klawiszowy |
+|----------------------|-------|------------------|
+| blackboard           | x     | x                |
+| whiteborad            x     | x                |
 
 
 ### Skróty klawiszowe
