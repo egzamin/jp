@@ -1,5 +1,12 @@
 ## Języki programowania 2014/15
 
+Atom:
+
+* [Programujemy w języku C](c-atom.md)
+
+
+### Lista
+
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha)
 1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha)
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master)
