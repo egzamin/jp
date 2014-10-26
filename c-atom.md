@@ -38,6 +38,11 @@ apm search ???
 TODO
 
 
+### Integracja z systemem Git
+
+TODO: pakiet?, skroty klawiszowe
+
+
 ### Pakiety pomagające w pisaniu programów
 
 ```sh
