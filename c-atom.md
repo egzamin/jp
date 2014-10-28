@@ -26,7 +26,7 @@ Swoje skróty klawiszowe ustawiamy w pliku *?*.
 apm search snippets
 ```
 
-TODO
+TODO: jak tworzyć swoje snipetty?
 
 
 #### Uruchamianie programów w edytorze
@@ -46,6 +46,7 @@ TODO: pakiet?, skroty klawiszowe
 ### Edycja plików *Makefile*
 
 TODO
+
 
 ### Pakiety pomagające w pisaniu programów
 
