@@ -1,9 +1,10 @@
 ## Przystosowujemy Atom do pracy z programami w C
 
-| przełączanie\nThemes | nazwa | skrót klawiszowy |
+| przełączanie         | nazwa | skrót klawiszowy |
+| Themes               |       |                  |
 |----------------------|-------|------------------|
 | blackboard           | x     | x                |
-| whiteborad            x     | x                |
+| whiteborad           | x     | x                |
 
 TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
