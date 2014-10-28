@@ -43,6 +43,10 @@ TODO
 TODO: pakiet?, skroty klawiszowe
 
 
+### Edycja plików *Makefile*
+
+TODO
+
 ### Pakiety pomagające w pisaniu programów
 
 ```sh
