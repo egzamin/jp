@@ -9,7 +9,7 @@ Atom:
 
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha) / 9.11
 1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha) / 9.11
-1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master)
+1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master) [C](https://github.com/deer667/programowanie)
 1. [Bieszke, Marek](https://github.com/Biemark/zadania-bash) / 25.10 9.11
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
 1. [Cichocki, Patryk](https://github.com/pcichocki/jp-zad-ug) / 9.11
