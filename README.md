@@ -36,7 +36,3 @@ Atom:
 1. Gil, Wojciech / 19.10, 25.10 9.11
 
 -->
-
-**1. Zadanie 1** (*deadline 25.10.2014*) –
-rozwiązać po kilka zadań z każdego z zestawów:
-[laboratorium 1-4](http://wbzyl.inf.ug.edu.pl/sp/exercises).
