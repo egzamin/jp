@@ -13,7 +13,7 @@ Atom:
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
 1. [Cichocki, Patryk](https://github.com/pcichocki/jp-zad-ug) / 9.11 16.11
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11
-1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C)
+1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C).[4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md).[5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md)
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha)
 1. Dębski, Michał / 16.11
 
