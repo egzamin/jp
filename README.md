@@ -8,7 +8,7 @@ Atom:
 ### Lista
 
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha) / 9.11
-1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha). [1](https://github.com/bbachanek/Zadania-z-programowania/blob/master/1.Budowanie%20program%C3%B3w%20w%20j%C4%99zyku%20C.md) / 9.11
+1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha). [1](https://github.com/bbachanek/Zadania-z-programowania/blob/master/1.Budowanie%20program%C3%B3w%20w%20j%C4%99zyku%20C.md).[4](https://github.com/bbachanek/Zadania-z-programowania/blob/master/4.Elementarz-1.md) / 9.11
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie)
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
 1. [Cichocki, Patryk](https://github.com/pcichocki/jp-zad-ug) / 9.11 16.11
