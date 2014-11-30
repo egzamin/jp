@@ -1,6 +1,6 @@
 ## Przystosowujemy Atom do pracy z programami w C
 
-| przełączanie\nThemes | nazwa | skrót klawiszowy |
+| przełączanie Themes  | nazwa | skrót klawiszowy |
 |----------------------|-------|------------------|
 | blackboard           | x     | x                |
 | whiteborad           | x     | x                |
@@ -26,7 +26,7 @@ Swoje skróty klawiszowe ustawiamy w pliku *?*.
 apm search snippets
 ```
 
-TODO
+TODO: jak tworzyć swoje snipetty?
 
 
 #### Uruchamianie programów w edytorze
@@ -41,6 +41,11 @@ TODO
 ### Integracja z systemem Git
 
 TODO: pakiet?, skroty klawiszowe
+
+
+### Edycja plików *Makefile*
+
+TODO
 
 
 ### Pakiety pomagające w pisaniu programów
