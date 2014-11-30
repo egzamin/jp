@@ -22,6 +22,18 @@ Atom:
 1. Bańkowski, Jacek
 1. Bryl, Adrian / 9.11
 
+
+### Różne rzeczy…
+
+1. Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
+[Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
+
+Git:
+
+1. Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
+  - [6.2 GitHub – Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+1. [Git – kilka rzeczy dla średniozaawansowanych](Git_intermediate.md)
+
 <!--
 
 1. Bar, Łukasz / 19.10 25.10 9.11
