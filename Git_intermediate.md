@@ -15,7 +15,8 @@
 > Another common practice is to rebase
 > the last few commits in your current branch
 >
-> [Interactive rebase](https://help.github.com/articles/interactive-rebase) on GitHub
+> [Interactive rebase](https://help.github.com/articles/about-git-rebase/) on GitHub
+
 
 ```sh
 git checkout issue16                       # o ile commity są na tej gałęzi
