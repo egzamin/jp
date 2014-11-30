@@ -3,7 +3,7 @@
 | przełączanie\nThemes | nazwa | skrót klawiszowy |
 |----------------------|-------|------------------|
 | blackboard           | x     | x                |
-| whiteborad            x     | x                |
+| whiteborad           | x     | x                |
 
 TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
