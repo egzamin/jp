@@ -9,18 +9,17 @@ Atom:
 
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha) / 9.11
 1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha). [1](https://github.com/bbachanek/Zadania-z-programowania/blob/master/1.Budowanie%20program%C3%B3w%20w%20j%C4%99zyku%20C.md), [4](https://github.com/bbachanek/Zadania-z-programowania/blob/master/4.Elementarz-1.md) / 9.11
-1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie)
-1. [Braun, Damian](https://github.com/damianbraun/jpzadania)
+1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie) / 7.12
+1. [Braun, Damian](https://github.com/damianbraun/jpzadania) / 7.12
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11 30.11
-1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md)
+1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha)
-1. Dębski, Michał / 16.11 30.11
 
 ----
 
-1. Bańkowski, Jacek / 30.11
+1. Bańkowski, Jacek / 30.11 7.12
 1. Bryl, Adrian / 9.11 30.11
-
+1. Dębski, Michał / 16.11 30.11 7.12
 
 ### Różne rzeczy…
 
