@@ -12,14 +12,13 @@ Atom:
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie) / 7.12
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania) / 7.12
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11 30.11
-1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12
+1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12 14.12
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha)
 
 ----
 
 1. Bańkowski, Jacek / 30.11 7.12
 1. Bryl, Adrian / 9.11 30.11
-1. Dębski, Michał / 16.11 30.11 7.12
 
 ### Różne rzeczy…
 
@@ -45,5 +44,6 @@ Git:
 1. Ferenc, Robert / 19.10, 25.10 9.11
 1. Gdaniec, Mateusz / 19.10, 25.10 9.11
 1. Gil, Wojciech / 19.10, 25.10 9.11
+1. Dębski, Michał / 16.11 30.11 7.12 14.12
 
 -->
