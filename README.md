@@ -12,7 +12,7 @@ Atom:
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie) / 7.12
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania) / 7.12
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11 30.11
-1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12 14.12
+1. [Czarkowska, Monika](https://github.com/monika001/zadania-z-basha/). [1](https://github.com/monika001/Programowanie-w-C), [4](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium4.md), [5](https://github.com/monika001/Programowanie-w-C/blob/master/Laboratorium5.md) / 7.12
 1. [Dawidowski, Marcin](https://github.com/mdawidowski/Zadania-z-basha)
 
 ----
