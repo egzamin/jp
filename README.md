@@ -22,7 +22,7 @@ Atom:
 
 ### Różne rzeczy…
 
-* Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
+* Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędziSca
 [Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
 
 Git:
