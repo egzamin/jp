@@ -7,7 +7,7 @@ Atom:
 
 ### Lista
 
-1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha) [5](https://github.com/waleksandrowicz/Programowanie-w-C-laboratoria) / 9.11
+1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha) [5](https://github.com/waleksandrowicz/Programowanie-w-C-laboratoria) [9](https://github.com/waleksandrowicz/Programowanie-w-C-laboratoria/tree/master/Lab9) / 9.11
 1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha). [1](https://github.com/bbachanek/Zadania-z-programowania/blob/master/1.Budowanie%20program%C3%B3w%20w%20j%C4%99zyku%20C.md), [4](https://github.com/bbachanek/Zadania-z-programowania/blob/master/4.Elementarz-1.md), [5](https://github.com/bbachanek/Zadania-z-programowania/blob/master/5.petle.md) / 9.11
 1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie) / 7.12
 1. [Braun, Damian](https://github.com/damianbraun/jpzadania) / 7.12
