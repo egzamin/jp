@@ -30,7 +30,6 @@ Atom:
 1. Gil, Wojciech
 
 
-
 ### Różne rzeczy…
 
 * Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędziSca
@@ -41,20 +40,3 @@ Git:
 * Scott Chacon, Ben Straub. [Pro Git](http://git-scm.com/book/en/v2)
   - [6.2 GitHub – Contributing to a Project](http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 * [Git – kilka rzeczy dla średniozaawansowanych](Git_intermediate.md)
-
-<!--
-
-1. Bar, Łukasz / 19.10 25.10 9.11
-1. Bigus, Michał / 19.10, 25.10 9.11
-1. [Bieszke, Marek](https://github.com/Biemark/zadania-bash) / 25.10 9.11 16.11
-1. Borawski, Rafał / 19.10, 25.10 9.11
-1. Brillowski, Tomasz / 19.10 9.11 16.11
-1. [Cichocki, Patryk](https://github.com/pcichocki/jp-zad-ug) / 9.11 16.11 30.11
-1. Darecki, Filip / 19.10, 25.10 9.11
-1. Drywa, Kamil / 19.10, 25.10 9.11
-1. Ferenc, Robert / 19.10, 25.10 9.11
-1. Gdaniec, Mateusz / 19.10, 25.10 9.11
-1. Gil, Wojciech / 19.10, 25.10 9.11
-1. Dębski, Michał / 16.11 30.11 7.12 14.12
-
--->
