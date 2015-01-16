@@ -10,7 +10,8 @@ Atom:
 1. [Aleksandrowicz, Witold](https://github.com/waleksandrowicz/zadania-z-basha). [5](https://github.com/waleksandrowicz/Programowanie-w-C-laboratoria), [9](https://github.com/waleksandrowicz/Programowanie-w-C-laboratoria/tree/master/Lab9) / 9.11 11.01
 1. [Bachanek, Bartosz](https://github.com/bbachanek/zadania-z-basha). [1](https://github.com/bbachanek/Zadania-z-programowania/blob/master/1.Budowanie%20program%C3%B3w%20w%20j%C4%99zyku%20C.md), [4](https://github.com/bbachanek/Zadania-z-programowania/blob/master/4.Elementarz-1.md), [5](https://github.com/bbachanek/Zadania-z-programowania/blob/master/5.petle.md) / 9.11 11.01
 1. Bańkowski, Jacek / 30.11 7.12
-1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie), [4](https://github.com/deer667/programowanie/blob/master/lab4.md), [5](https://github.com/deer667/programowanie/blob/master/lab5.md), [8](https://github.com/deer667/programowanie/blob/master/lab8.md), [9](https://github.com/deer667/programowanie/blob/master/lab9.md) / 7.12
+1. [Bartel, Krzysztof](https://github.com/deer667/zadania_z_basha/tree/master). [1](https://github.com/deer667/programowanie/tree/master/lab01),  [4](https://github.com/deer667/programowanie/tree/master/lab04),  [5](https://github.com/deer667/programowanie/tree/master/lab05),  [8](https://github.com/deer667/programowanie/tree/master/lab08),  [9](https://github.com/deer667/programowanie/tree/master/lab09), 
+[10](https://github.com/deer667/programowanie/tree/master/lab10) / 7.12
 1. [Braun, Damian](https://github.com/damianbraun/c-zadania) / 7.12 11.01
 1. Bryl, Adrian / 9.11 30.11
 1. [Ciepliński, Dominik](https://github.com/Mafferek/Programowanie---Na-Uczelni) / 16.11 30.11
