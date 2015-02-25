@@ -10,8 +10,7 @@ TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
 ### [Skróty klawiszowe](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
 
-If there's one key-command you remember in Atom,
-it should be `ctrl-shift-p`.
+If there's one key-command you remember in Atom, it should be `ctrl-shift-p`.
 
 Swoje skróty klawiszowe ustawiamy w pliku *?*.
 
@@ -46,7 +45,7 @@ TODO
 
 ### Integracja z systemem Git
 
-TODO: pakiet?, skroty klawiszowe
+Install [atomatgit](https://github.com/diiq/atomatigit).
 
 
 ### Edycja plików *Makefile*
