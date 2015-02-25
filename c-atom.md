@@ -7,12 +7,9 @@
 
 TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
-
 ### [Skróty klawiszowe](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
 
 If there's one key-command you remember in Atom, it should be `ctrl-shift-p`.
-
-Swoje skróty klawiszowe ustawiamy w pliku *?*.
 
 | skrót    | funkcja                  |
 |----------|--------------------------|
@@ -25,14 +22,13 @@ Swoje skróty klawiszowe ustawiamy w pliku *?*.
 |  ⌘-L    |  select line              |
 |  ⌘-⇧-↓ |  select to bottom of file |
 
+[Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf).
+
 ### Snippets
 
 ```sh
 apm search snippets
 ```
-
-TODO: jak tworzyć swoje snipetty?
-
 
 #### Uruchamianie programów w edytorze
 
