@@ -15,10 +15,16 @@ it should be `ctrl-shift-p`.
 
 Swoje skróty klawiszowe ustawiamy w pliku *?*.
 
-| skrót | funkcja | uwagi |
-|-------|---------|-------|
-|       |         |       |
-
+| skrót    | funkcja                  |
+|----------|--------------------------|
+|  ^-m     | find matching bracket    |
+|  ^-k     | cut to end of line       |
+|  ⌘-]    |  indent selected text     |
+|  ⌘-[    |  oudent                   |
+|  ⌘-↑    |  move to top              |
+|  ⌘-↓    |  move to bottom           |
+|  ⌘-L    |  select line              |
+|  ⌘-⇧-↓ |  select to bottom of file |
 
 ### Snippets
 
