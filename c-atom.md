@@ -9,7 +9,7 @@ TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
 ### [Skróty klawiszowe](http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/)
 
-If there's one key-command you remember in Atom, it should be `ctrl-shift-p`.
+If there's one key-command you remember in Atom, it should be `^-shift-p`.
 
 | skrót    | funkcja                  |
 |----------|--------------------------|
@@ -19,38 +19,18 @@ If there's one key-command you remember in Atom, it should be `ctrl-shift-p`.
 |  ⌘-[    |  oudent                   |
 |  ⌘-↑    |  move to top              |
 |  ⌘-↓    |  move to bottom           |
+|  ⌘-d    |  select token             |
 |  ⌘-L    |  select line              |
 |  ⌘-⇧-↓ |  select to bottom of file |
 
 [Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf).
 
-### Snippets
+### APM
 
 ```sh
-apm search snippets
+apm search|install ...
 ```
-
-#### Uruchamianie programów w edytorze
-
-```sh
-apm search ???
-```
-
-TODO
-
 
 ### Integracja z systemem Git
 
-Install [atomatgit](https://github.com/diiq/atomatigit).
-
-
-### Edycja plików *Makefile*
-
-TODO
-
-
-### Pakiety pomagające w pisaniu programów
-
-```sh
-apm search c
-```
+? Install [atomatgit](https://github.com/diiq/atomatigit).
