@@ -11,26 +11,18 @@ TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
 
 If there's one key-command you remember in Atom, it should be `^-shift-p`.
 
-| skrót    | funkcja                  |
-|----------|--------------------------|
-|  ^-m     | find matching bracket    |
-|  ^-k     | cut to end of line       |
+| skrót    | funkcja                   |
+|----------|---------------------------|
+|  ^-m     |  find matching bracket    |
+|  ^-k     |  cut to end of line       |
 |  ⌘-]    |  indent selected text     |
 |  ⌘-[    |  oudent                   |
 |  ⌘-↑    |  move to top              |
 |  ⌘-↓    |  move to bottom           |
 |  ⌘-d    |  select token             |
 |  ⌘-L    |  select line              |
-|  ⌘-⇧-↓ |  select to bottom of file |
+|  ⌘-⇧-↓  |  select to bottom of file |
 
-[Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf).
+### Cheatsheets
 
-### APM
-
-```sh
-apm search|install ...
-```
-
-### Integracja z systemem Git
-
-? Install [atomatgit](https://github.com/diiq/atomatigit).
+1. [Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf).
