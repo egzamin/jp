@@ -18,5 +18,6 @@ Markdown:
 Git:
 
 * Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
+  - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
   - [6.2 GitHub – Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 * [Git – kilka rzeczy dla średniozaawansowanych](Git_intermediate.md)
