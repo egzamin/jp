@@ -25,7 +25,7 @@
 
 Markdown:
 
-* Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędziSca
+* Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
 [Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
 
 Git:
