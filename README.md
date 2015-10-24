@@ -1,6 +1,6 @@
 ## Języki programowania, 2015/16
 
-1. Włodzimierz Bzyl
+1. [Włodzimierz Bzyl](https://github.com/egzamin/jp)
 1. Bartos Michał
 1. Bilikiewicz Semen
 1. Borzyszkowski Mateusz
