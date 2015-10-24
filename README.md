@@ -2,7 +2,7 @@
 
 1. [Włodzimierz Bzyl](https://github.com/egzamin/jp)
 1. Bartos Michał
-1. Bilikiewicz Semen
+1. [Bilikiewicz Semen](https://github.com/sbilikiewicz/cw)
 1. Borzyszkowski Mateusz
 1. Bulczak Michał
 1. Czajka Mikołaj
@@ -18,7 +18,7 @@
 1. Kamiński Mateusz
 1. Klimko Magdalena
 1. Kochmańska Patrycja
-1. [Sarzyński Kamil](https://github.com/223491/xxx)
+1. Sarzyński Kamil
 
 
 ### Użyteczne rzeczy…
