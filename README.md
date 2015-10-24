@@ -7,11 +7,11 @@
 1. Bulczak Michał
 1. Czajka Mikołaj
 1. [Dzięgielewski Piotr] (https://github.com/dexiefy/Notatki)
-1. [Gajda Krzysztof](https://github.com/krzysztofgajda/noty)
+1. Gajda Krzysztof
 1. Gałązka Tomasz
 1. Gągol Szymon
 1. Gencel Adam
-1. Gorzkowski Michał
+1. [Gorzkowski Michał](https://github.com/mgorzkowski)
 1. Gryczon Łukasz
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. Kałabis Paweł
