@@ -18,7 +18,7 @@
 1. Kamiński Mateusz
 1. Klimko Magdalena
 1. Kochmańska Patrycja
-1. Sarzyński Kamil
+1. [Sarzyński Kamil](https://github.com/223491/xxx)
 
 
 ### Użyteczne rzeczy…
