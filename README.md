@@ -6,7 +6,7 @@
 1. Borzyszkowski Mateusz
 1. Bulczak Michał
 1. Czajka Mikołaj
-1. Dzięgielewski Piotr
+1. [Dzięgielewski Piotr] (https://github.com/dexiefy/Notatki)
 1. Gajda Krzysztof
 1. Gałązka Tomasz
 1. Gągol Szymon
