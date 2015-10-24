@@ -15,7 +15,7 @@
 1. Gryczon Łukasz
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. Kałabis Paweł
-1. Kamiński Mateusz
+1. [Kamiński Mateusz](https://github.com/mattiasquat/jp)
 1. Klimko Magdalena
 1. Kochmańska Patrycja
 1. Sarzyński Kamil
