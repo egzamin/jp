@@ -13,7 +13,7 @@
 1. Gencel Adam
 1. Gorzkowski Michał
 1. Gryczon Łukasz
-1. Januszek Wojciech
+1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. Kałabis Paweł
 1. Kamiński Mateusz
 1. Klimko Magdalena
