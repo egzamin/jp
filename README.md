@@ -1,12 +1,12 @@
 ## Języki programowania, 2015/16
 
 1. [Włodzimierz Bzyl](https://github.com/egzamin/jp)
-1. Bartos Michał
+1. [Bartos Michał](https://github.com/toyorg/jp)
 1. [Bilikiewicz Semen](https://github.com/sbilikiewicz/cw)
 1. Borzyszkowski Mateusz
 1. Bulczak Michał
 1. Czajka Mikołaj
-1. [Dzięgielewski Piotr] (https://github.com/dexiefy/Notatki)
+1. Dzięgielewski Piotr
 1. Gajda Krzysztof
 1. Gałązka Tomasz
 1. Gągol Szymon
@@ -39,3 +39,6 @@ Git:
 Atom:
 
 * [Programujemy w języku C](c-atom.md)
+* Instalujemy pakiety:
+  [linter](https://github.com/atom-community/linter),
+  [linter-gcc](https://atom.io/packages/linter-gcc)
