@@ -18,6 +18,7 @@
 1. [Kamiński Mateusz](https://github.com/mattiasquat/jp)
 1. Klimko Magdalena
 1. Kochmańska Patrycja
+1. [Rybczyński Hubert](https://github.com/HR12345/Repozytorium)
 1. Sarzyński Kamil
 
 
