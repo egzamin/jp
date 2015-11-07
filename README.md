@@ -2,7 +2,7 @@
 
 1. [Włodzimierz Bzyl](https://github.com/egzamin/jp)
 1. [Bartos Michał](https://github.com/toyorg/jp)
-1. [Bilikiewicz Semen](https://github.com/sbilikiewicz/cw)
+1. [Bilikiewicz Semen](https://github.com/sbilikiewicz/Cwiczenia-2015-11-07) 
 1. Borzyszkowski Mateusz
 1. Bulczak Michał
 1. Czajka Mikołaj
