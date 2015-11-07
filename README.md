@@ -19,7 +19,7 @@
 1. Klimko Magdalena
 1. Kochmańska Patrycja
 1. [Rybczyński Hubert](https://github.com/HR12345/Repozytorium)
-1. Sarzyński Kamil
+1. [Sarzyński Kamil](https://github.com/223491/labc)
 
 
 ### Użyteczne rzeczy…
