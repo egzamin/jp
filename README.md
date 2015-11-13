@@ -16,7 +16,7 @@
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. Kałabis Paweł
 1. [Kamiński Mateusz](https://github.com/mattiasquat/jp)
-1. Klimko Magdalena
+1. [Klimko Magdalena](https://github.com/mklimko/jprog)
 1. Kochmańska Patrycja
 1. [Rybczyński Hubert](https://github.com/HR12345/Repozytorium)
 1. [Sarzyński Kamil](https://github.com/223491/labc)
