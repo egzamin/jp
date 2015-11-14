@@ -26,21 +26,14 @@
 
 ### Użyteczne rzeczy…
 
-Markdown:
-
-* Do automatycznego wygenerowania spisu treści w zadaniach można użyć narzędzia
-[Table of Contents Preprocessor](https://github.com/aslushnikov/table-of-contents-preprocessor).
-
 Git:
 
 * Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
   - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
   - [6.2 GitHub – Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
-* [Git – kilka rzeczy dla średniozaawansowanych](Git_intermediate.md)
 
 Atom:
 
-* [Programujemy w języku C](c-atom.md)
 * Instalujemy pakiety:
   [linter](https://github.com/atom-community/linter),
   [linter-gcc](https://atom.io/packages/linter-gcc)
