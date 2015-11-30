@@ -4,7 +4,7 @@
 1. [Bilikiewicz Semen](https://github.com/sbilikiewicz/Cwiczenia-2015-11-07)
 1. [Dzięgielewski Piotr](https://github.com/dexiefy/Notatki)
 1. [Gajda Krzysztof](https://github.com/krzysztofgajda/noty) 14.11
-1. [Gorzkowski Michał](https://github.com/mgorzkowski)
+1. [Gorzkowski Michał](https://github.com/mgorzkowski/LabC)
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
 1. [Kamiński Mateusz](https://github.com/mattiasquat/jp) 28.11
 1. [Klimko Magdalena](https://github.com/mklimko/jprog)
