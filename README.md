@@ -36,8 +36,8 @@ Atom:
 
 * Instalujemy pakiety:
   [linter](https://github.com/atom-community/linter),
-  [linter-gcc](https://atom.io/packages/linter-gcc).
-  [git-plus](https://atom.io/packages/git-plush)
+  [linter-gcc](https://atom.io/packages/linter-gcc),
+  [git-plus](https://atom.io/packages/git-plush).
 
 *keymap.cson*:
 
