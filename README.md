@@ -6,10 +6,14 @@
 1. [Gajda Krzysztof](https://github.com/krzysztofgajda/noty) 14.11
 1. [Gorzkowski Michał](https://github.com/mgorzkowski/LabC)
 1. [Januszek Wojciech](https://github.com/wojsamjan/xxx)
-1. [Kamiński Mateusz](https://github.com/mattiasquat/jp) 28.11 12.12
+1. [Kamiński Mateusz](https://github.com/mattiasquat/jp) 28.11
 1. [Klimko Magdalena](https://github.com/mklimko/jprog)
 1. [Rybczyński Hubert](https://github.com/HR12345/Repozytorium) 12.12
 1. [Sarzyński Kamil](https://github.com/223491/labc)
+
+----
+
+1. Gałązka Tomasz
 
 <!--
 1. Borzyszkowski Mateusz
@@ -19,7 +23,6 @@
 1. Gryczon Łukasz
 1. Kałabis Paweł
 1. Kochmańska Patrycja
-1. Gałązka Tomasz
 1. Gencel Adam
 -->
 
