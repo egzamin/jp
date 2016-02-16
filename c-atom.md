@@ -23,8 +23,6 @@ If there's one key-command you remember in Atom, it should be `^-shift-p`.
 | blackboard           | x     | x                |
 | whiteborad           | x     | x                |
 
-TODO: whitespace, ustawiane tabulacji/wcięcia (2 spacje).
-
 
 ### Cheatsheets
 
