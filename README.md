@@ -1,12 +1,5 @@
 ## Języki programowania, 2015/16
 
-Lista obecności:
-
-1. [Nazwisko, Imię](link do publicznego repo na _github.com_, _bitbucket.com_, _gitlab.com_)
-
-
-### Użyteczne rzeczy…
-
 Git:
 
 * Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
