@@ -9,7 +9,7 @@
 1. Balcerwoicz Łukasz
 1. Bartlakowski Michał
 1. Bienias Jan
-1. Borawski Krzysztof
+1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. Cimochowski Szymon
 1. Cwalina Łukasz
 1. Ćwik Dawid
