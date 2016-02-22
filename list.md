@@ -7,7 +7,7 @@
 1. Adamczyk Tomasz
 1. Aszkielaniec Piotr
 1. Balcerwoicz Łukasz
-1. Bartlakowski Michał
+1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
 1. Bienias Jan
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. Cimochowski Szymon
