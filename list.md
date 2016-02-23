@@ -16,7 +16,7 @@
 1. Dembowski Jędrzej
 1. Długoński Mateusz
 1. Duszaa Adrian
-1. Fierek Michał
+1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. Galicki Przemysław
 1. Kosma Aleksander
 1. Sasin Jacek
