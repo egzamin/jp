@@ -5,7 +5,7 @@
 ```
 
 1. Adamczyk Tomasz
-1. Aszkielaniec Piotr
+1. [Aszkielaniec Piotr](https://github.com/readher/LabInf2016)
 1. Balcerwoicz Łukasz
 1. Bartlakowski Michał
 1. Bienias Jan
