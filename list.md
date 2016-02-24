@@ -12,7 +12,7 @@
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. Cimochowski Szymon
 1. Cwalina Łukasz
-1. Ćwik Dawid
+1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
 1. Dembowski Jędrzej
 1. Długoński Mateusz
 1. Duszaa Adrian
