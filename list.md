@@ -19,6 +19,6 @@
 1. Duszaa Adrian
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki)
-1. Kosma Aleksander
+1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
 1. Sasin Jacek
 1. Zakrzewski Michał
