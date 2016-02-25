@@ -13,7 +13,7 @@
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg)
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
-1. Dembowski Jędrzej
+1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg)
 1. [Długoński Mateusz](https://github.com/mdlugonski/jp)
 1. Duszaa Adrian
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
