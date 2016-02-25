@@ -8,6 +8,7 @@
 1. [Aszkielaniec Piotr](https://github.com/readher/LabInf2016)
 1. Balcerwoicz Łukasz
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
+1. Monika Barzowska
 1. Bienias Jan
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
