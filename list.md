@@ -6,7 +6,7 @@
 
 1. [Adamczyk Tomasz](https://github.com/tadamczyk/LabC_II)
 1. [Aszkielaniec Piotr](https://github.com/readher/LabInf2016)
-1. Balcerwoicz Łukasz
+1. Balcerowicz Jakub
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
 1. Monika Barzowska
 1. Bienias Jan
