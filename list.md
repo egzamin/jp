@@ -19,5 +19,5 @@
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki)
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
-1. [Sasin Jacek](https://github.com/jsasin/jprograowania)
+1. [Sasin Jacek](https://github.com/jsasin/jprogramowania)
 1. Zakrzewski Michał
