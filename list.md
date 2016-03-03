@@ -21,4 +21,4 @@
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania)
 1. Zakrzewski Michał
-1. [Adrian Dusza](https://github.com/Aderrro/jp.git)
+1. [Adrian Dusza](https://github.com/Aderrro/labc)
