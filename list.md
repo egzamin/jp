@@ -16,9 +16,10 @@
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
 1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg)
 1. [Długoński Mateusz](https://github.com/mdlugonski/jp)
+1. [Dusza Adrian](https://github.com/Aderrro/labc)
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki)
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania)
 1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx)
-1. [Adrian Dusza](https://github.com/Aderrro/labc)
+
