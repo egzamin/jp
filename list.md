@@ -8,7 +8,7 @@
 1. [Aszkielaniec Piotr](https://github.com/readher/LabInf2016)
 1. [Balcerowicz Jakub](https://github.com/JakubBalcerowicz/labc2016.git)
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
-1. [Monika Barzowska](https://github.com/gitmika/jprog.git)
+1. [Barzowska Monika](https://github.com/gitmika/jprog.git)
 1. [Bienias Jan](https://github.com/Hergroth/C)
 1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git)
 2. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 4.03
