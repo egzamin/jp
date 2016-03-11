@@ -21,6 +21,7 @@
 1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki) 11.03
+1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/JezProg)
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03
 1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx)
