@@ -10,18 +10,17 @@
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git)
 1. [Barzowska Monika](https://github.com/gitmika/jprog.git)
 1. [Bienias Jan](https://github.com/Hergroth/C)
-1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git)
+1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03
 2. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 4.03
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg)
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
-1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg)
-1. [Długoński Mateusz](https://github.com/mdlugonski/jp)
-1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03
+1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg) 11.03
+1. [Długoński Mateusz](https://github.com/mdlugonski/jp) 11.03
+1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
-1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki)
+1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki) 11.03
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016)
-1. [Sasin Jacek](https://github.com/jsasin/jprogramowania)
+1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03
 1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx)
-
