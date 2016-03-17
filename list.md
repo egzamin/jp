@@ -12,6 +12,7 @@
 1. [Bienias Jan](https://github.com/Hergroth/C)
 1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03
 2. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 4.03
+1. [Blumski Bartłomiej](https://github.com/BatlomBlu/Laboratorium-2016-2017)
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg)
