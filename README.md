@@ -27,3 +27,12 @@ Atom, *keymap.cson*:
   'cmd-shift-p': 'command-palette:toggle'
   'cmd-shift-h': 'git-plus:menu'
 ```
+
+*snippets.cson*:
+
+```yaml
+'.source.c':
+  'main with include':
+    'prefix': 'maini'
+    'body': '#include <stdio.h>\nint main() {\n  $0\n}\n'
+```
