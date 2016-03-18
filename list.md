@@ -2,6 +2,11 @@
 
 * [Laboratoria z Języków programowania](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
+TODO:
+
+* [ ] [Laboratorium 3](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03), zadanie 1 (tabelka).
+* [ ] [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/), zadanie 2 (liczby zespolone).
+
 <!--
 ```
 1. [Nazwisko Imię](link do publicznego repo na _github.com_, _bitbucket.com_, _gitlab.com_)
