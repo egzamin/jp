@@ -1,8 +1,12 @@
 ## Lista
 
+* [Laboratoria z Języków programowania](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
+
+<!--
 ```
 1. [Nazwisko Imię](link do publicznego repo na _github.com_, _bitbucket.com_, _gitlab.com_)
 ```
+-->
 
 1. [Adamczyk Tomasz](https://github.com/tadamczyk/LabC_II)
 1. [Aszkielaniec Piotr](https://github.com/readher/LabInf2016)
