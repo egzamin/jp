@@ -18,7 +18,7 @@ TODO:
 1. [Balcerowicz Jakub](https://github.com/JakubBalcerowicz/labc2016.git) 1.04
 1. [Bartlakowski Michał](https://github.com/Em-jey/JProg.git) 18.03
 1. [Barzowska Monika](https://github.com/gitmika/jprog.git) 18.03
-1. [Bienias Jan](https://github.com/Hergroth/C) 1.04
+1. [Bienias Jan](https://github.com/Hergroth/C) 1.04 L5-
 1. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 4.03 18.03
 1. [Blumski Bartłomiej](https://github.com/BatlomBlu/Laboratorium-2016-2017)
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
