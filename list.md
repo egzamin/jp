@@ -29,7 +29,7 @@ TODO:
 1. [Długoński Mateusz](https://github.com/mdlugonski/jp) 11.03 18.03
 1. [Dziubiński Maciej](https://github.com/mdziub/JezykiProg) 1.04
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
-1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki) 11.03
+1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki) 11.03 L5-
 1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/JezProg)
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016) 18.03
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03 1.04
