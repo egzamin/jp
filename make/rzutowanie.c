@@ -18,7 +18,7 @@ int main() {
   // wypisuje maksymalna wartosc inta (float > int)
   printf("DBL_MAX -> (int)DBL_MAX:\n%e -> %i\n", DBL_MAX, (int)DBL_MAX);
   // wyznacza maksymalna (czyli jak najblizsza zadanej(double)) liczbe w innym typie (int)
-  printf("Wartosc double max wychodzi poza maksymalna wartosc int. Wypisywane jest wartosc maksymalna int.\n\n");
+  printf("Wartosc double max wychodzi poza maksymalna wartosc int. Wypisywana jest wartosc maksymalna int.\n\n");
   printf("INT_MAX -> (double)INT_MAX:\n%i -> %e\n\n", INT_MAX, (double)INT_MAX);
   // wypisuje maksymalna wartosc inta (double > int)
   printf("LDBL_MAX -> (double)LDBL_MAX:\n%Le -> %e\n\n", LDBL_MAX, (double)LDBL_MAX);
