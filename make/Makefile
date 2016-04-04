@@ -9,6 +9,6 @@ LDLIBS = -lGL -lGLU -lglut -lm
 
 .PHONY : clean
 clean :
-	-$(RM) $(objects) $(programs) *~
+	-$(RM) $(objects) $(programs) *~ vitter.o
 
 all : $(programs)
