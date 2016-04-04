@@ -1,4 +1,4 @@
-sources = wprawki00.c wprawki17.c
+sources = wprawki00.c wprawki17.c rzutowanie.c
 
 programs = $(basename $(sources))
 objects = $(addsuffix .o, $(programs))
