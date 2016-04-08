@@ -5,7 +5,9 @@
 TODO:
 
 * [ ] [Laboratorium 3](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03), zadanie 1 (tabelka).
-* [ ] [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04/), zadanie 2 (liczby zespolone).
+* [ ] [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04), zadanie 2 (liczby zespolone).
+* [ ] [Laboratorium 5]((https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs05), 
+  zadanie 2 (ścieżka do pliku zdanymi w linii poleceń, sortowanie po nazwiskach i imionach) 
 
 <!--
 ```
