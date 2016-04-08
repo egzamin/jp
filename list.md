@@ -22,7 +22,7 @@ TODO:
 1. [Blaszkiewicz Rafal](https://github.com/blaszczek/RepoLaby) 4.03 18.03 L5,2
 1. [Blumski Bartłomiej](https://github.com/BatlomBlu/Laboratorium-2016-2017)
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
-1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git) 1.04
+1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg) L5-sortowanie,bsearch
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
 1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg) 11.03
