@@ -33,7 +33,7 @@ TODO:
 1. [Kosma Aleksander](https://github.com/olekkosma/Lab2016) 18.03 L5,2
 1. [Płoski Marcin](https://github.com/marcinploski/jez_prog) 8.04
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03 1.04
-1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx) 1.04H
+1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx) 1.04
 
 <!--
 1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03 18.03 1.04
