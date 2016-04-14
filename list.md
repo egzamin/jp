@@ -36,6 +36,7 @@ TODO:
 1. [Płoski Marcin](https://github.com/marcinploski/jez_prog) 8.04
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03 1.04
 1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx) 1.04
+1. [Dziurdzia Wioletta] (https://github.com/wdziurdzia/LabJProg)
 
 <!--
 1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03 18.03 1.04
