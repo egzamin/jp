@@ -4,8 +4,10 @@
 
 TODO:
 
-* [ ] [Laboratorium 3](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03), zadanie 1 (tabelka).
-* [ ] [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04), zadanie 2 (liczby zespolone).
+* [ ] [Laboratorium 3](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs03), zadanie 1 (tabelka)
+  - [Are types like uint32, int32, uint64, int64 defined in any stdlib header?](http://stackoverflow.com/questions/6013245/are-types-like-uint32-int32-uint64-int64-defined-in-any-stdlib-header)
+  - [prawie gotowa tabelka](make/rzutowanie.c)
+* [ ] [Laboratorium 4](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs04), zadanie 2 (liczby zespolone)
 * [ ] [Laboratorium 5](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/Labs05), 
   zadanie 2 (ścieżka do pliku zdanymi w linii poleceń, sortowanie po nazwiskach i imionach)
   - [przykłady użycia funkcji _qsort_](http://wbzyl.inf.ug.edu.pl/c/qsort)
