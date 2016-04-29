@@ -1,4 +1,4 @@
-sources = wprawki00.c wprawki17.c
+sources = wprawki00.c wprawki17.c rzutowanie.c
 
 programs = $(basename $(sources))
 objects = $(addsuffix .o, $(programs))
@@ -9,6 +9,6 @@ LDLIBS = -lGL -lGLU -lglut -lm
 
 .PHONY : clean
 clean :
-	-$(RM) $(objects) $(programs) *~
+	-$(RM) $(objects) $(programs) *~ vitter.o
 
 all : $(programs)

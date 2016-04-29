@@ -49,8 +49,12 @@ git branch -d issue16                      # możemy usunąć scaloną gałąź
 ### Undo różnych rzeczy
 
 ```sh
-git reset --merge           # merge
-git reset --hard ORIG_HEAD  # rebase
+git reset --merge                 # merge
+git reset --hard ORIG_HEAD        # rebase
+git show some-branch:some-file.js # extract a file from another branch
+git revert -n HEAD                # to undo a previous commit (HEAD) or two, 
+                                  # look at the changes, and see which 
+                                  # ones might have caused a problem
 ```
 
 ### Stashing
