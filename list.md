@@ -30,11 +30,12 @@ TODO:
 1. [Blumski Bartłomiej](https://github.com/BatlomBlu/Laboratorium-2016-2017) 15.04 22.04
 1. [Borawski Krzysztof](https://github.com/Msegun/labc01.git)
 1. [Cimochowski Szymon](https://github.com/realokers/Laboratorium2016.git)
-1. [Cwalina Łukasz](https://github.com/lcwalina/JProg) L5-sortowanie,bsearch, 6.05
+1. [Cwalina Łukasz](https://github.com/lcwalina/JProg) L5-sortowanie,bsearch
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
 1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg) 11.03
-2. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03 6.05
+1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03 6.05
 1. [Dziubiński Maciej](https://github.com/mdziub/JezykiProg) 1.04 22.04
+1. [Dziurdzia Wioletta](https://github.com/wdziurdzia/LabJProg)
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
 1. [Galicki Przemysław](https://github.com/jampapuga/jpcGalicki) 11.03 L5- 22.05
 1. [Jędzierowska Magdalena](https://github.com/MagdalenaJedzierowska/JezProg) 8.04 15.04
@@ -42,7 +43,6 @@ TODO:
 1. [Płoski Marcin](https://github.com/marcinploski/jez_prog) 8.04 22.04
 1. [Sasin Jacek](https://github.com/jsasin/jprogramowania) 11.03 1.04
 1. [Zakrzewski Michał](https://github.com/Zakrzak30/labx) 1.04
-1. [Dziurdzia Wioletta](https://github.com/wdziurdzia/LabJProg)
 
 <!--
 1. [Bieńkowski Miłosz](https://github.com/milekb/Laboratorium-2016-2017.git) 11.03 18.03 1.04
