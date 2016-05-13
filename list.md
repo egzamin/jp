@@ -1,4 +1,4 @@
-## Lista
+## Laboratoria z JP
 
 * [Laboratoria z Języków programowania](https://inf.ug.edu.pl/~stefan/Dydaktyka/JezProg/Slajdy/index.html#lab)
 
