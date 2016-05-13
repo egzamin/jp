@@ -42,7 +42,7 @@ TODO:
 1. [Cwalina Łukasz](https://github.com/lcwalina/JProg) L5-sortowanie,bsearch
 1. [Ćwik Dawid](https://github.com/dcwik96/labc.git)
 1. [Dembowski Jędrzej](https://github.com/jentszej/RepDoJezProg) 11.03
-1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03 6.05 13.05
+1. [Dusza Adrian](https://github.com/Aderrro/labc) 4.03 11.03 6.05
 1. [Dziubiński Maciej](https://github.com/mdziub/JezykiProg) 1.04 22.04
 1. [Dziurdzia Wioletta](https://github.com/wdziurdzia/LabJProg)
 1. [Fierek Michał](https://github.com/mfierek2/labcx)
