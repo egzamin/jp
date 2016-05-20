@@ -18,6 +18,12 @@ Command Line, Git, Text Editor:
 * [Learn Enough to Be Dangerous](http://www.learnenough.com)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
+Algorytmy w C:
+
+* [Numerical Recipes in C](http://www2.units.it/ipl/students_area/imm2/files/Numerical_Recipes.pdf) –
+  the Art of Scientific Computing
+
+
 ### Konfiguracja…
 
 Atom, *keymap.cson*:
