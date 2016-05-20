@@ -22,6 +22,8 @@ Algorytmy w C:
 
 * [Numerical Recipes in C](http://www2.units.it/ipl/students_area/imm2/files/Numerical_Recipes.pdf) –
   the Art of Scientific Computing
+* JL Bentley, MD McIlroy.
+  [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf)
 
 
 ### Konfiguracja…
