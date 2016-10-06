@@ -86,3 +86,21 @@ linter-message {
 
 If you are unfamiliar with LESS, you can read more about it here:
 [LessCSS](http://www.lesscss.org).
+
+
+```less
+.script-view {
+  .panel-body pre {
+    background: @tool-panel-background-color;
+    color: @text-color;
+    font-size: 1.6rem;
+  }
+  .output {
+    font-size: 1.6rem;
+  }
+  .stderr {
+    color: @text-color-error;
+    font-size: 1.6rem;
+  }
+}
+```
