@@ -78,7 +78,6 @@ linter-message {
   font-size: @ui-font-size;
 }
 
-.overlay .select-list ol.list-group li,
 .overlay.select-list ol.list-group li {
   font-size: @ui-font-size;
 }
