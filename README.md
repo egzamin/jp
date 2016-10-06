@@ -32,7 +32,7 @@ Algorytmy w C:
 Atom, *~/.atom/keymap.cson*:
 
 ```yaml
-'.platform-linux':
+'.platform-linux atom-text-editor':
   'cmd-shift-p': 'command-palette:toggle'
   'cmd-shift-h': 'git-plus:menu'
 
