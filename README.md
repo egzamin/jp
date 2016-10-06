@@ -88,6 +88,7 @@ If you are unfamiliar with LESS, you can read more about it here:
 [LessCSS](http://www.lesscss.org).
 
 
+<!---
 ```less
 .script-view {
   .panel-body pre {
@@ -104,3 +105,4 @@ If you are unfamiliar with LESS, you can read more about it here:
   }
 }
 ```
+--->
