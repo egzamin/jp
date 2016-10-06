@@ -11,7 +11,8 @@ Atom:
 
 * Instalujemy pakiety:
   [linter](https://github.com/atom-community/linter),
-  [linter-gcc](https://atom.io/packages/linter-gcc),
+  [linter-gcc](https://atom.io/packages/linter-gcc) i opcjonalnie
+  (zajmuje dużo miejsca na dysku)
   [git-plus](https://atom.io/packages/git-plush).
 
 Command Line, Git, Text Editor:
