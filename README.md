@@ -11,7 +11,8 @@ Atom:
 
 * Instalujemy pakiety:
   [linter](https://github.com/atom-community/linter),
-  [linter-gcc](https://atom.io/packages/linter-gcc) i opcjonalnie
+  [linter-gcc](https://atom.io/packages/linter-gcc),
+  [auto-indent](https://atom.io/packages/auto-indent) i opcjonalnie
   (zajmuje dużo miejsca na dysku)
   [git-plus](https://atom.io/packages/git-plush).
 
@@ -85,14 +86,3 @@ linter-message {
 
 If you are unfamiliar with LESS, you can read more about it here:
 [LessCSS](http://www.lesscss.org).
-
-Użyteczne pakiety:
-
-```
-auto-indent
-linter
-linter-gcc
-# linter-clang
-
-git-plus
-```
