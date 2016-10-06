@@ -85,3 +85,14 @@ linter-message {
 
 If you are unfamiliar with LESS, you can read more about it here:
 [LessCSS](http://www.lesscss.org).
+
+Packages:
+
+```
+auto-indent
+linter
+linter-gcc
+# linter-clang
+
+git-plus
+```
