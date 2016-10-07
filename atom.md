@@ -16,14 +16,16 @@ If there's one key-command you remember in Atom, it should be `^-shift-p`.
 |  ctrl-⌘-space |  select emoji 😎               |
 
 
-## Themes
+## Różne rzeczy…
 
-| przełączanie Themes  | nazwa | skrót klawiszowy |
-|----------------------|-------|------------------|
-| blackboard           | x     | x                |
-| whiteborad           | x     | x                |
+Sprawdzamy jakie mamy zainstalowane pakiety:
 
+```bash
+apm list --installed --bare > my-packages.txt
+```
 
-### Cheatsheets
+Instalujemy pakiety z listy _my-packages.txt_ na innym komputerze:
 
-1. [Atom Editor Cheat Sheet](http://d2wy8f7a9ursnm.cloudfront.net/atom-editor-cheat-sheet.pdf).
+```bash
+apm install --packages-file my-packages.txt
+```
