@@ -1,4 +1,4 @@
-## Języki programowania, 2015/16
+## Języki programowania, 2016/17
 
 Git:
 
