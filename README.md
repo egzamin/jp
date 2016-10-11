@@ -24,9 +24,11 @@ Command Line, Git, Text Editor:
 Algorytmy w C:
 
 * [Numerical Recipes in C](http://www2.units.it/ipl/students_area/imm2/files/Numerical_Recipes.pdf) –
-  the Art of Scientific Computing
+  the Art of Scientific Computing.
 * JL Bentley, MD McIlroy.
-  [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf)
+  [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
+* [Google Interview University](https://github.com/jwasham/google-interview-university) – lista zadań
+  z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
 
 
 ### Konfiguracja edytora Atom
