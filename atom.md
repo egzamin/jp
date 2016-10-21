@@ -4,13 +4,13 @@ If there's one key-command you remember in Atom, it should be `shift-⌘-p`.
 
 | skrót          | funkcja                        |
 |----------------|--------------------------------|
-|  shift+⌘+l     |  split-selection-into-lines    |
+|  shift+⌘+L     |  split-selection-into-lines    |
 |  ctrl-⌘-space  |  select emoji 😎               |
-|  ⌘-d           |  select token                  |
-|  ⌘-l           |  select line                   |
+|  ⌘-D           |  select token                  |
+|  ⌘-L           |  select line                   |
 |  shift-ctrl-↓  |  add selection up/down         |
-|  ctrl-m        |  find matching bracket         |
-|  ctrl-k        |  cut to end of line            |
+|  ctrl-M        |  find matching bracket         |
+|  ctrl-K        |  cut to end of line            |
 |  ⌘-]           |  indent selected text          |
 |  ⌘-[           |  oudent                        |
 |  ⌘-↑           |  move to top                   |
