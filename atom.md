@@ -1,6 +1,6 @@
-## Przystosowujemy Atom do pracy z programami w C
+## Użyteczne skróty klawiszowe
 
-If there's one key-command you remember in Atom, it should be `shift-⌘-p`.
+If there's one key-command you remember in Atom, it should be `shift-⌘-P`.
 
 | skrót          | funkcja                        |
 |----------------|--------------------------------|
