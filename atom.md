@@ -1,19 +1,20 @@
 ## Przystosowujemy Atom do pracy z programami w C
 
-If there's one key-command you remember in Atom, it should be `^-shift-p`.
+If there's one key-command you remember in Atom, it should be `shift-⌘-p`.
 
 | skrót          | funkcja                        |
 |----------------|--------------------------------|
-|  ^-m           |  find matching bracket         |
-|  ^-k           |  cut to end of line            |
-|  ⌘-]          |  indent selected text          |
-|  ⌘-[          |  oudent                        |
-|  ⌘-↑          |  move to top                   |
-|  ⌘-↓          |  move to bottom                |
-|  ⌘-d          |  select token                  |
-|  ⌘-L          |  select line                   |
-|  ^-ctrl-↓      |  add selection up/down         |
-|  ctrl-⌘-space |  select emoji 😎               |
+|  shift+⌘+l     |  split-selection-into-lines    |
+|  ctrl-⌘-space  |  select emoji 😎               |
+|  ⌘-d           |  select token                  |
+|  ⌘-l           |  select line                   |
+|  shift-ctrl-↓  |  add selection up/down         |
+|  ctrl-m        |  find matching bracket         |
+|  ctrl-k        |  cut to end of line            |
+|  ⌘-]           |  indent selected text          |
+|  ⌘-[           |  oudent                        |
+|  ⌘-↑           |  move to top                   |
+|  ⌘-↓           |  move to bottom                |
 
 
 ## Różne rzeczy…
