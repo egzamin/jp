@@ -9,7 +9,7 @@
 1. Bannach, Robert
 1. Bieńkowski, Adrian
 1. Chmielewski, Bartosz
-1. Chmielewski, Karol
+1. Chmielewski, Karol https://github.com/kchmielewski
 1. Chodun, Michał
 1. Cygert, Sławomir
 1. Dymura, Łukasz
