@@ -15,7 +15,7 @@
 1. Dymura, Łukasz
 1. Dziekan, Maciej
 1. Ertmański, Jakub
-1. Gackowski, Maciej
+1. Gackowski, Maciej https://github.com/mgackowski96
 1. Gajda, Klaudia
 1. Galicki, Paweł
 1. Hoffman, Łukasz
