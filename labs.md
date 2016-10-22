@@ -12,11 +12,11 @@
 1. Chmielewski, Karol https://github.com/kchmielewski
 1. Chodun, Michał
 1. Cygert, Sławomir
-1. Dymura, Łukasz
+1. Dymura, Łukasz 22.10
 1. Dziekan, Maciej
 1. Ertmański, Jakub
 1. Gackowski, Maciej https://github.com/mgackowski96
 1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
-1. Galicki, Paweł
+1. Galicki, Paweł 22.10
 1. Hoffman, Łukasz
 1. Mydło, Dawid
