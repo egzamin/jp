@@ -14,7 +14,7 @@ Atom:
   [linter-gcc](https://atom.io/packages/linter-gcc),
   [auto-indent](https://atom.io/packages/auto-indent) i opcjonalnie
   (zajmuje dużo miejsca na dysku)
-  [git-plus](https://atom.io/packages/git-plush).
+  [git-plus](https://atom.io/packages/git-plus).
 
 Command Line, Git, Text Editor:
 

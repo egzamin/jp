@@ -4,7 +4,7 @@
 1. [Nazwisko Imię](link do publicznego repo na _github.com_, _bitbucket.com_ lub _gitlab.com_)
 ```
 
-1. Adach, Dominik
+1. Adach, Dominik - https://github.com/Dadach/
 1. Andrearczyk, Seweryn
 1. Bannach, Robert
 1. Bieńkowski, Adrian
