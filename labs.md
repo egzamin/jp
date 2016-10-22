@@ -7,7 +7,7 @@
 1. Adach, Dominik - https://github.com/Dadach/
 1. Andrearczyk, Seweryn
 1. Bannach, Robert
-1. Bieńkowski, Adrian
+1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp)
 1. Chmielewski, Bartosz
 1. Chmielewski, Karol https://github.com/kchmielewski
 1. Chodun, Michał
