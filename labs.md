@@ -8,7 +8,7 @@
 1. Andrearczyk, Seweryn
 1. [Bannach, Robert](https://github.com/rByczeq/sp2016)
 1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp)
-1. Chmielewski, Bartosz
+1. [Chmielewski, Karol](https://github.com/kchmielewski/jp)
 1. [Chmielewski, Karol](https://github.com/kchmielewski)
 1. [Chodun, Michał](https://github.com/Xava2011)
 1. [Cygert, Sławomir](https://github.com/Slawecky/srod_prog)
