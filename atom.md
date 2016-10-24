@@ -18,13 +18,13 @@ If there's one key-command you remember in Atom, it should be `shift-⌘-P`.
 
 ## Wyrażenia regularne, czyli regexps
 
-Przykład z wyszukaj:
+Przykład z wyszukaj (⌘-F) w `[Nowak, Dominik](https://github.com/abc/sp2016)`:
 ```regexp
-
+\[(.+)\].+$
 ```
-i zamień:
+i zamień na `Nowak, Dominik`
 ```regexp
-
+$1
 ```
 
 ## Różne rzeczy…
