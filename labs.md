@@ -10,7 +10,7 @@
 1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp)
 1. Chmielewski, Bartosz
 1. Chmielewski, Karol https://github.com/kchmielewski
-1. Chodun, Michał
+1. [Chodun, Michał](https://github.com/Xava2011)
 1. Cygert, Sławomir
 1. Dymura, Łukasz 22.10
 1. Dziekan, Maciej
