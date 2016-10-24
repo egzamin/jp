@@ -16,6 +16,16 @@ If there's one key-command you remember in Atom, it should be `shift-⌘-P`.
 |  ⌘-↑           |  move to top                   |
 |  ⌘-↓           |  move to bottom                |
 
+## Wyrażenia regularne, czyli regexps
+
+Przykład z wyszukaj:
+```regexp
+
+```
+i zamień:
+```regexp
+
+```
 
 ## Różne rzeczy…
 
