@@ -19,4 +19,4 @@
 1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
 1. Galicki, Paweł 22.10
 1. Hoffman, Łukasz
-1. Mydło, Dawid
+1. [Mydło, Dawid](https://github.com/dmydlo/jp)
