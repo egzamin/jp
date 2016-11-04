@@ -10,15 +10,20 @@ cat > README.md
 ## Notatki z programowania w C
 
 TODO
-# wciskamy ctrl + d
+```
+Teraz wciskamy `ctrl + d` kończąc w ten sposób edycję pliku _README.md_.
+
+Teraz wykonujemy:
+
+```bash
 git add README.md # dodajemy plik do repozytorium
 git commit -m "dodano plik README.md"
 ```
 
-Praca z kodem w repozytorium wygląda tak:
+Praca z kodem w repozytorium przebiega w takiej pętli.
 
 ```bash
-# edycja
+# edycja plików
 git add . # dodajemy wszystkie zmienione pliki
 git commit -m "dodano/edytowano/zmieniono pliki ..."
 # edycja, add, commit
@@ -36,7 +41,7 @@ Kolejne kroki:
 Można też zajrzeć [tutaj](https://www.learnenough.com/git-tutorial#sec-sharing).
 
 Po dodaniu repozytorium do Githuba, zmieniamy pracę z kodem.
-Teraz zawsze zaczynamy pracę od ściągnięcia najnowszej wersji repozytorium
+Teraz zawsze zaczynamy od ściągnięcia najnowszej wersji repozytorium
 i kończymy przesłaniem zmienionego kodu na Githuba.
 
 ```bash
