@@ -31,8 +31,8 @@ git commit -m "dodano/edytowano/zmieniono pliki ..."
 
 Kolejne kroki:
 
-1. [Zakładamy konto na https://github.com]
-  i [konfigurujemy nowe konto](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
+1. Zakładamy konto na https://github.com
+  i [konfigurujemy nowo założone konto](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
 1. Tworzymy na Github nowe repozytorium o nazwie _labjp_
   (klikamy w zielony przycisk **New repository**).
   - Dodajemy repozytorium z katalogu _labjp_ na swoim komputerze
