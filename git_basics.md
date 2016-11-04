@@ -13,7 +13,7 @@ TODO
 ```
 Teraz wciskamy `ctrl + d` kończąc w ten sposób edycję pliku _README.md_.
 
-Teraz wykonujemy:
+Następnie wykonujemy:
 
 ```bash
 git add README.md # dodajemy plik do repozytorium
