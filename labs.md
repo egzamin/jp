@@ -7,7 +7,7 @@
 1. [Adach, Dominik](https://github.com/Dadach/sp2016) 05.11
 1. Andrearczyk, Seweryn
 1. [Bannach, Robert](https://github.com/rByczeq/sp2016)
-1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp) 05.11
+1. [Bieńkowski, Adrian](https://github.com/adrianadamb)
 1. [Chmielewski, Karol](https://github.com/kchmielewski/jp)
 1. Chmielewski, Bartek
 1. [Chodun, Michał](https://github.com/Xava2011)
