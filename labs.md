@@ -15,7 +15,7 @@
 1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty)
 1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp2016.)
 1. [Gackowski Maciej](https://github.com/mgackowski96/Jezyki-Programowania-)
-1. [Gajda, Klaudia](https://github.com/klaudiaga/srod_prog)
+1. [Gajda, Klaudia](https://github.com/klaudiaga/jez_prog)
 1. [Hoffman, Łukasz](https:/github.com/highkillyou)
 1. [Mydło, Dawid](https://github.com/dmydlo/sp)
 
