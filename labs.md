@@ -13,7 +13,7 @@
 1. [Chodun, Michał](https://github.com/Xava2011)
 1. [Cygert, Sławomir](https://github.com/Slawecky/srod_prog)
 1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty)
-1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp2016.)
+1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp)
 1. [Gackowski Maciej](https://github.com/mgackowski96/Jezyki-Programowania-)
 1. [Gajda, Klaudia](https://github.com/klaudiaga/jez_prog) 19.11
 1. [Hoffman, Łukasz](https:/github.com/highkillyou) 19.11
