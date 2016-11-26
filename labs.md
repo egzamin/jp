@@ -6,7 +6,7 @@
 
 1. [Andrearczyk, Seweryn](https://github.com/saw112/Laboratoria)
 1. [Bannach, Robert](https://github.com/rByczeq/sp2016) 19.11 26.11
-1. [Bieńkowski, Adrian](https://github.com/adrianadamb)
+1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp)
 1. [Chmielewski, Karol](https://github.com/kchmielewski/jp)
 1. [Chodun, Michał](https://github.com/Xava2011) 26.11
 1. [Cygert, Sławomir](https://github.com/Slawecky/srod_prog)
