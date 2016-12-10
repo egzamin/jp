@@ -5,17 +5,14 @@
 ```
 
 1. [Andrearczyk, Seweryn](https://github.com/saw112/Laboratoria)
-1. [Bannach, Robert](https://github.com/rByczeq/sp2016) 19.11 26.11
 1. [Bieńkowski, Adrian](https://github.com/adrianadamb/sp)
 1. [Chmielewski, Karol](https://github.com/kchmielewski/jp)
 1. [Chodun, Michał](https://github.com/Xava2011) 26.11
 1. [Cygert, Sławomir](https://github.com/Slawecky/srod_prog)
-1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty)
+1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty) 10.12
 1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp)
-1. [Gackowski Maciej](https://github.com/mgackowski96/Jezyki-Programowania-) 26.11
-1. [Gajda, Klaudia](https://github.com/klaudiaga/jez_prog) 19.11 26.11
-1. [Hoffman, Łukasz](https:/github.com/highkillyou) 19.11 26.11
-1. [Mydło, Dawid](https://github.com/dmydlo/sp)
+1. [Gackowski Maciej](https://github.com/mgackowski96/Jezyki-Programowania-) 26.11 10.12
+1. [Mydło, Dawid](https://github.com/dmydlo/sp) 10.12
 
 
 <!--
@@ -23,4 +20,8 @@
 1. Chmielewski, Bartek 19.11 26.11
 1. Dymura, Łukasz 22.10, 05.11 19.11
 1. Galicki, Paweł 22.10, 05.11 19.11
+
+1. [Bannach, Robert](https://github.com/rByczeq/sp2016) 19.11 26.11 10.12
+1. [Gajda, Klaudia](https://github.com/klaudiaga/jez_prog) 19.11 26.11 10.12
+1. [Hoffman, Łukasz](https:/github.com/highkillyou) 19.11 26.11 10.12
 -->
