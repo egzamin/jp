@@ -9,9 +9,12 @@
 1. [Chmielewski, Karol](https://github.com/kchmielewski/jp)
 1. [Chodun, Michał](https://github.com/Xava2011/sp2016) 26.11
 1. [Cygert, Sławomir](https://github.com/Slawecky/srod_prog)
-1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty) 10.12
-1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp) 17.12
 1. [Mydło, Dawid](https://github.com/dmydlo/sp) 17.12
+
+----
+
+1. [Dziekan, Maciej](https://github.com/m4sakra/srodowisko_programisty) 10.12, 14.01
+1. [Ertmański, Jakub](https://github.com/Ertmanieq/sp) 17.12, 14.01
 
 
 <!--
