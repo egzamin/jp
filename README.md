@@ -1,4 +1,4 @@
-## Języki programowania, 2016/17
+## Języki Programowania, 2018
 
 Git:
 
