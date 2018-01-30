@@ -1,5 +1,12 @@
 ## Języki Programowania, 2018
 
+## :new: Egzamin poprawkowy
+
+Egzamin poprawkowy (test wielokrotnego wyboru) odbędzie się w sesji poprawkowej.
+Termin podam jak będzie znany rozkład zajęć w sesji letniej.
+
+----
+
 Git:
 
 * Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
