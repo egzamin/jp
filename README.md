@@ -24,8 +24,9 @@ Atom – instalujemy pakiety:
 * [linter](https://github.com/atom-community/linter),
 * [linter-gcc](https://atom.io/packages/linter-gcc),
 * [auto-indent](https://atom.io/packages/auto-indent).
+* można zainstalować też: minimap, split-diff, minimap-split-diff
 
-Konfiguracja VSC.
+Konfiguracja VSC: TODO
 
 
 ## Algorytmy, struktury danych
