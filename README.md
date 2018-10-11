@@ -4,7 +4,7 @@
 ## [Learn Enough to Be Dangerous](http://www.learnenough.com)
 
 * [The Art of Command Line](https://www.learnenough.com/command-line-tutorial).
-* [https://www.learnenough.com/text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial).
+* [Edytory dla programistów](https://www.learnenough.com/text-editor-tutorial).
 * [Git & GitHub](https://www.learnenough.com/git-tutorial)
 
 
