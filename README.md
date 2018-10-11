@@ -4,7 +4,7 @@
 ## [Learn Enough to Be Dangerous](http://www.learnenough.com)
 
 * [The Art of Command Line](https://www.learnenough.com/command-line-tutorial).
-* [https://www.learnenough.com/text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial).
+* [Edytory dla programistów](https://www.learnenough.com/text-editor-tutorial).
 * [Git & GitHub](https://www.learnenough.com/git-tutorial)
 
 
@@ -37,3 +37,8 @@ Konfiguracja VSC: TODO
   [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 * [Google Interview University](https://github.com/jwasham/google-interview-university) – lista zadań
   z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
+
+
+## Różne rzeczy…
+
+1. [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line).
