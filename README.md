@@ -36,3 +36,8 @@ Konfiguracja VSC.
   [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 * [Google Interview University](https://github.com/jwasham/google-interview-university) – lista zadań
   z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
+
+
+## Różne rzeczy…
+
+. [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line).
