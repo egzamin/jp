@@ -1,34 +1,34 @@
-## Języki Programowania, 2018
+## Języki Programowania, 2018/19
 
-## :new: Egzamin poprawkowy
 
-Egzamin poprawkowy (test wielokrotnego wyboru) odbędzie się w sesji poprawkowej.
-Termin podam jak będzie znany rozkład zajęć w sesji letniej.
+## [Learn Enough to Be Dangerous](http://www.learnenough.com)
 
-----
+* [The Art of Command Line](https://www.learnenough.com/command-line-tutorial).
+* [https://www.learnenough.com/text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial).
+* [Git & GitHub](https://www.learnenough.com/git-tutorial)
 
-Git:
 
-* Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
-  - [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration)
-  - [6.2 GitHub – Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
-* [Git Tips](https://github.com/git-tips/tips) – most commonly used git tips and tricks
+## Git
 
-Atom:
+Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
+- [6.1 GitHub – Account Setup and Configuration](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration).
+- [6.2 GitHub – Contributing to a Project](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project).
 
-* Instalujemy pakiety:
-  [linter](https://github.com/atom-community/linter),
-  [linter-gcc](https://atom.io/packages/linter-gcc),
-  [auto-indent](https://atom.io/packages/auto-indent) i opcjonalnie
-  (zajmuje dużo miejsca na dysku)
-  [git-plus](https://atom.io/packages/git-plus).
+[Git Tips](https://github.com/git-tips/tips) – most commonly used git tips and tricks.
 
-Command Line, Git, Text Editor:
 
-* [Learn Enough to Be Dangerous](http://www.learnenough.com)
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+## Atom, Visual Studio Code
 
-Algorytmy w C:
+Atom – instalujemy pakiety:
+
+* [linter](https://github.com/atom-community/linter),
+* [linter-gcc](https://atom.io/packages/linter-gcc),
+* [auto-indent](https://atom.io/packages/auto-indent).
+
+Konfiguracja VSC.
+
+
+## Algorytmy, struktury danych
 
 * [Numerical Recipes in C](http://www2.units.it/ipl/students_area/imm2/files/Numerical_Recipes.pdf) –
   the Art of Scientific Computing.
@@ -36,82 +36,3 @@ Algorytmy w C:
   [Engineering a Sort Function](http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf).
 * [Google Interview University](https://github.com/jwasham/google-interview-university) – lista zadań
   z [Data Structures](https://github.com/jwasham/google-interview-university#data-structures).
-
-
-### Konfiguracja edytora Atom
-
-Atom, *~/.atom/keymap.cson*:
-
-```yaml
-'.platform-linux atom-text-editor':
-  'cmd-shift-p': 'command-palette:toggle'
-  'cmd-shift-h': 'git-plus:menu'
-
-'.platform-darwin atom-text-editor':
-  'alt-a': 'native!'
-  'alt-shift-s': 'unset!'
-  'ctrl-shift-i': 'auto-indent:apply'
-  'cmd-shift-m': 'markdown-preview:toggle'
-```
-
-*~/.atom/snippets.cson*:
-
-```yaml
-'.source.c':
-  'main with include':
-    'prefix': 'maini'
-    'body': '#include <stdio.h>\nint main() {\n  $0\n}\n'
-```
-
-*~/.atom/styles.less*
-
-```less
-@ui-font-size: 16px;
-
-linter-message {
-  font-size: @ui-font-size;
-}
-
-.tab-bar .tab, .tab-bar .tab.active {
-  font-size: @ui-font-size;
-}
-
-.status-bar {
-  font-size: @ui-font-size;
-}
-
-.tree-view {
-  font-size: @ui-font-size;
-}
-
-.settings-view {
-  font-size: @ui-font-size;
-}
-
-.overlay.select-list ol.list-group li {
-  font-size: @ui-font-size;
-}
-```
-
-If you are unfamiliar with LESS, you can read more about it here:
-[LessCSS](http://www.lesscss.org).
-
-
-<!---
-```less
-.script-view {
-  .panel-body pre {
-    background: @tool-panel-background-color;
-    color: @text-color;
-    font-size: 1.6rem;
-  }
-  .output {
-    font-size: 1.6rem;
-  }
-  .stderr {
-    color: @text-color-error;
-    font-size: 1.6rem;
-  }
-}
-```
---->
