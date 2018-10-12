@@ -5,7 +5,7 @@
 
 * [The Art of Command Line](https://www.learnenough.com/command-line-tutorial).
 * [Edytory dla programistów](https://www.learnenough.com/text-editor-tutorial).
-* [Git & GitHub](https://www.learnenough.com/git-tutorial)
+* [Git & GitHub](https://www.learnenough.com/git-tutorial).
 
 
 ## Git
