@@ -27,6 +27,15 @@ Atom – instalujemy pakiety:
 
 Konfiguracja Visual Studio Code – TODO
 
+## Podręczniki
+
+* Dennis Ritchie, Brian Kernighan.
+  [Język ANSI C](https://pl.wikipedia.org/wiki/J%C4%99zyk_ANSI_C),
+* Ben Klemens.
+  [21st Century C, C Tips from the New School](http://shop.oreilly.com/product/0636920033677.do), 2nd Edition.
+* David Griffiths, Dawn Griffiths.
+  [C. Rusz głową!](https://helion.pl/ksiazki/c-rusz-glowa-david-griffiths-dawn-griffiths,cruszg.htm#format/e)  
+  
 
 ## Algorytmy, struktury danych
 
