@@ -16,6 +16,8 @@ Scott Chacon, Ben Straub. [Pro Git](https://git-scm.com/book/en/v2)
 
 [Git Tips](https://github.com/git-tips/tips) – most commonly used git tips and tricks.
 
+Susam Pal.
+[A quick reference guide on fork and pull request workflow](https://github.com/susam/gitpr).
 
 ## Atom, Visual Studio Code
 
