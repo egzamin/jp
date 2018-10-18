@@ -1,0 +1,72 @@
+= Języki Programowania, 2018/19
+:icons: font
+:experimental: true
+
+== http://www.learnenough.com[Learn Enough to Be Dangerous]
+
+* https://www.learnenough.com/command-line-tutorial[The Art of Command Line].
+* https://www.learnenough.com/text-editor-tutorial[Edytory dla programistów].
+* https://www.learnenough.com/git-tutorial[Git & GitHub].
+
+== Git
+
+Scott Chacon, Ben Straub. https://git-scm.com/book/en/v2[Pro Git]:
+- https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration[6.1 GitHub – Account Setup and Configuration].
+- https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project[6.2 GitHub – Contributing to a Project].
+
+https://github.com/git-tips/tips[Git Tips] – most commonly used git tips and tricks.
+
+Susam Pal.
+https://github.com/susam/gitpr[A quick reference guide on fork and pull request workflow].
+
+== Atom, Visual Studio Code
+
+Atom – instalujemy pakiety:
+
+* https://github.com/atom-community/linter[linter],
+* https://atom.io/packages/linter-gcc[linter-gcc],
+* https://atom.io/packages/auto-indent[auto-indent].
+
+Konfiguracja Visual Studio Code – TODO
+
+.Atom keyboard shortcuts
+|===
+|Shortcut |Purpose
+
+|kbd:[shift+cmd++p] |toggle command palette
+|kbd:[cmd+k+arrow] |open new pane
+|kbd:[ctrl+m] |goto matching bracket
+|kbd:[cmd+k] kbd:[cmd+u] |Upper Case
+|kbd:[ctrl + +] |increase zoom
+|kbd:[ctrl+d] |select current token
+|kbd:[ctrl+shift+arrow] |add selection up/down
+|kbd:[shift+cmd+l] |split selections into lines
+|kbd:[shift+alt+right/left] | select to next/previous word
+|kbd:[shift+cmd+right/left] | select to end/beginning line
+|kbd:[ctrl+cmd+space] | select emoji, często używane
+|===
+
+
+## Podręczniki
+
+* Dennis Ritchie, Brian Kernighan.
+  https://pl.wikipedia.org/wiki/J%C4%99zyk_ANSI_C[Język ANSI C].
+* Ben Klemens.
+  http://shop.oreilly.com/product/0636920033677.do[21st Century C, C Tips from the New School], 2nd Edition.
+* David Griffiths, Dawn Griffiths.
+  https://helion.pl/ksiazki/c-rusz-glowa-david-griffiths-dawn-griffiths,cruszg.htm#format/e[C. Rusz głową!]
+  
+
+## Algorytmy, struktury danych
+
+* http://www2.units.it/ipl/students_area/imm2/files/Numerical_Recipes.pdf[Numerical Recipes in C] –
+  the Art of Scientific Computing.
+* JL Bentley, MD McIlroy.
+  http://cs.fit.edu/~pkc/classes/writing/samples/bentley93engineering.pdf[Engineering a Sort Function].
+* https://github.com/jwasham/google-interview-university[Google Interview University] – lista zadań
+  z https://github.com/jwasham/google-interview-university#data-structures[Data Structures].
+
+
+## Różne rzeczy…
+
+1. https://github.com/jlevy/the-art-of-command-line[The Art of Command Line].
