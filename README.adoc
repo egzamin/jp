@@ -11,8 +11,8 @@
 == Git
 
 Scott Chacon, Ben Straub. https://git-scm.com/book/en/v2[Pro Git]:
-- https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration[6.1 GitHub – Account Setup and Configuration].
-- https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project[6.2 GitHub – Contributing to a Project].
+* https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration[6.1 GitHub – Account Setup and Configuration].
+* https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project[6.2 GitHub – Contributing to a Project].
 
 https://github.com/git-tips/tips[Git Tips] – most commonly used git tips and tricks.
 
@@ -27,24 +27,20 @@ Atom – instalujemy pakiety:
 * https://atom.io/packages/linter-gcc[linter-gcc],
 * https://atom.io/packages/auto-indent[auto-indent].
 
-Konfiguracja Visual Studio Code – TODO
-
 .Atom keyboard shortcuts
 |===
 |Shortcut |Purpose
 
-|kbd:[shift+cmd++p] |toggle command palette
-|kbd:[cmd+k+arrow] |open new pane
-|kbd:[ctrl+m] |goto matching bracket
-|kbd:[cmd+k] kbd:[cmd+u] |Upper Case
-|kbd:[ctrl + +] |increase zoom
-|kbd:[ctrl+d] |select current token
-|kbd:[ctrl+shift+arrow] |add selection up/down
-|kbd:[shift+cmd+l] |split selections into lines
-|kbd:[shift+alt+right/left] | select to next/previous word
-|kbd:[shift+cmd+right/left] | select to end/beginning line
-|kbd:[ctrl+cmd+space] | select emoji, często używane
+|kbd:[shift+cmd+p]           |toggle command palette
+|kbd:[ctrl+d]                |select current token
+|kbd:[shift+ctrl+arrow]      |add selection up/down
+|kbd:[shift+cmd+l]           |split selections into lines
+|kbd:[shift+alt+right/left]  | select to next/previous word
+|kbd:[shift+cmd+right/left]  | select to end/beginning line
+|kbd:[ctrl+cmd+space]        | select emoji
 |===
+
+Konfiguracja Visual Studio Code – TODO
 
 
 ## Podręczniki
