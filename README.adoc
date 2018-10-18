@@ -22,9 +22,9 @@ https://github.com/susam/gitpr[A quick reference guide on fork and pull request 
 
 https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignoring files].
 
-== Atom, Visual Studio Code
+== Edytory Atom i Visual Studio Code
 
-Atom – instalujemy pakiety:
+Atom – instalujemy pakiety ułatwiające programowanie w C.
 
 * https://github.com/atom-community/linter[linter],
 * https://atom.io/packages/linter-gcc[linter-gcc],
@@ -43,7 +43,7 @@ Atom – instalujemy pakiety:
 |kbd:[ctrl+cmd+space]        | select emoji
 |===
 
-Konfiguracja Visual Studio Code.
+Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
 
 .vscode.extensions.txt
 [source,sh]
