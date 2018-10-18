@@ -43,8 +43,26 @@ Atom – instalujemy pakiety:
 |kbd:[ctrl+cmd+space]        | select emoji
 |===
 
-Konfiguracja Visual Studio Code – TODO
+Konfiguracja Visual Studio Code.
 
+.vscode.extensions.txt
+[source,sh]
+----
+ms-vscode.atom-keybindings
+robertohuertasm.vscode-icons
+formulahendry.code-runner
+eamodio.gitlens
+donjayamanne.githistory
+felipecaputo.git-project-manager
+ms-python.python
+PeterJausovec.vscode-docker
+vector-of-bool.cmake-tools
+----
+
+```sh
+extensions=$(cat .vscode.extensions.txt)
+for ext in $extensions; do code --install-extensions $ext; done
+```
 
 ## Podręczniki
 
