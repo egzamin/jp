@@ -11,6 +11,7 @@
 == Git
 
 Scott Chacon, Ben Straub. https://git-scm.com/book/en/v2[Pro Git]:
+
 * https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration[6.1 GitHub – Account Setup and Configuration].
 * https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project[6.2 GitHub – Contributing to a Project].
 
@@ -18,6 +19,8 @@ https://github.com/git-tips/tips[Git Tips] – most commonly used git tips and t
 
 Susam Pal.
 https://github.com/susam/gitpr[A quick reference guide on fork and pull request workflow].
+
+https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignoring files].
 
 == Atom, Visual Studio Code
 
