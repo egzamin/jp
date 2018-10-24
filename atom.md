@@ -4,17 +4,17 @@ If there's one key-command you remember in Atom, it should be `shift-⌘-P`.
 
 | skrót          | funkcja                        |
 |----------------|--------------------------------|
-|  shift+⌘+L     |  split-selection-into-lines    |
-|  ctrl-⌘-space  |  select emoji 😎               |
-|  ⌘-D           |  select token                  |
-|  ⌘-L           |  select line                   |
+|  shift+⌘+L    |  split-selection-into-lines    |
+|  ctrl-⌘-space |  select emoji 😎               |
+|  ⌘-D          |  select token                  |
+|  ⌘-L          |  select line                   |
 |  shift-ctrl-↓  |  add selection up/down         |
 |  ctrl-M        |  find matching bracket         |
 |  ctrl-K        |  cut to end of line            |
-|  ⌘-]           |  indent selected text          |
-|  ⌘-[           |  oudent                        |
-|  ⌘-↑           |  move to top                   |
-|  ⌘-↓           |  move to bottom                |
+|  ⌘-]          |  indent selected text          |
+|  ⌘-[          |  oudent                        |
+|  ⌘-↑          |  move to top                   |
+|  ⌘-↓          |  move to bottom                |
 
 ## Wyrażenia regularne, czyli regexps
 
