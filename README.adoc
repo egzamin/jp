@@ -34,10 +34,11 @@ Atom – instalujemy pakiety ułatwiające programowanie w C.
 |===
 |Shortcut |Purpose
 
-|kbd:[shift+cmd+p]           |toggle command palette
-|kbd:[ctrl+d]                |select current token
-|kbd:[shift+ctrl+arrow]      |add selection up/down
-|kbd:[shift+cmd+l]           |split selections into lines
+|kbd:[shift+cmd+p]           | toggle command palette
+|kbd:[cmd-k cmd+f]           | format selection
+|kbd:[ctrl+d]                | select current token
+|kbd:[shift+ctrl+arrow]      | add selection up/down
+|kbd:[shift+cmd+l]           | split selections into lines
 |kbd:[shift+alt+right/left]  | select to next/previous word
 |kbd:[shift+cmd+right/left]  | select to end/beginning line
 |kbd:[ctrl+cmd+space]        | select emoji
@@ -72,7 +73,7 @@ for ext in $extensions; do code --install-extensions $ext; done
   http://shop.oreilly.com/product/0636920033677.do[21st Century C, C Tips from the New School], 2nd Edition.
 * David Griffiths, Dawn Griffiths.
   https://helion.pl/ksiazki/c-rusz-glowa-david-griffiths-dawn-griffiths,cruszg.htm#format/e[C. Rusz głową!]
-  
+
 
 ## Algorytmy, struktury danych
 
