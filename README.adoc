@@ -62,7 +62,7 @@ vector-of-bool.cmake-tools
 ----
 
 ```sh
-extensions=$(cat .vscode.extensions.txt)
+extensions=$(cat vscode.extensions.txt)
 for ext in $extensions; do code --install-extensions $ext; done
 ```
 
