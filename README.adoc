@@ -53,10 +53,9 @@ Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
 ms-vscode.atom-keybindings
 robertohuertasm.vscode-icons
 formulahendry.code-runner
-eamodio.gitlens
 donjayamanne.githistory
 felipecaputo.git-project-manager
-ms-python.python
+vector-of-bool.cmake-tools
 PeterJausovec.vscode-docker
 vector-of-bool.cmake-tools
 ----
