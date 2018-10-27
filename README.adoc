@@ -47,8 +47,8 @@ Atom – instalujemy pakiety ułatwiające programowanie w C.
 
 Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
 
-.vscode.extensions.txt
 [source,sh]
+.vscode.extensions.txt
 ----
 ms-vscode.atom-keybindings
 robertohuertasm.vscode-icons
