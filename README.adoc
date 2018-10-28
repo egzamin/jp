@@ -22,15 +22,9 @@ https://github.com/susam/gitpr[A quick reference guide on fork and pull request 
 
 https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignoring files].
 
-== Edytory Atom i Visual Studio Code
+== Edytor Visual Studio Code
 
-Atom – instalujemy pakiety ułatwiające programowanie w C.
-
-* https://github.com/atom-community/linter[linter],
-* https://atom.io/packages/linter-gcc[linter-gcc],
-* https://atom.io/packages/auto-indent[auto-indent].
-
-.Atom keyboard shortcuts
+.Atom keyboard shortcuts for Code Editor
 |===
 |Shortcut |Purpose
 
