@@ -24,19 +24,19 @@ https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignor
 
 == Edytor Visual Studio Code
 
-.Atom keyboard shortcuts for Code Editor
+.Atom keyboard shortcuts for Visual Studio Code
 |===
-|Shortcut |Purpose
+|Shortcut |Purpose |Extension
 
-|kbd:[shift+cmd+p]           | toggle command palette
-|kbd:[cmd-k cmd+f]           | format selection
-|kbd:[ctrl+d]                | select current token
-|kbd:[shift+ctrl+arrow]      | add selection up/down
-|kbd:[shift+cmd+l]           | split selections into lines
-|kbd:[shift+alt+right/left]  | select to next/previous word
-|kbd:[shift+cmd+right/left]  | select to end/beginning line
-|kbd:[alt+q]                 | reflow paragraph
-|kbd:[ctrl+cmd+space]        | select emoji
+|kbd:[shift+cmd+p]           | toggle command palette |
+|kbd:[cmd+k cmd+f]           | format selection |
+|kbd:[ctrl+d]                | select current token |
+|kbd:[shift+ctrl+arrow]      | add selection up/down |
+|kbd:[shift+cmd+l]           | split selections into lines |
+|kbd:[shift+alt+right/left]  | select to next/previous word |
+|kbd:[shift+cmd+right/left]  | select to end/beginning line |
+|kbd:[alt+q]                 | reflow paragraph | Reflow paragraph
+|kbd:[ctrl+cmd+space]        | select emoji |
 |===
 
 Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
