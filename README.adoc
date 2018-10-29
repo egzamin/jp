@@ -37,6 +37,7 @@ https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignor
 |kbd:[alt+q]                 | reflow paragraph | Reflow paragraph
 |kbd:[ctrl+cmd+space]        | select emoji |
 |⌘+k ⌘+f                     | format selection |
+|kbd:[cmd+k] kbd:[cmd+f]     | format selection |
 |===
 
 Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
