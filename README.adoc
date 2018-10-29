@@ -29,7 +29,6 @@ https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignor
 |Shortcut |Purpose |Extension
 
 |kbd:[shift+cmd+p]           | toggle command palette |
-|kbd:[cmd+k cmd+f]           | format selection |
 |kbd:[ctrl+d]                | select current token |
 |kbd:[shift+ctrl+arrow]      | add selection up/down |
 |kbd:[shift+cmd+l]           | split selections into lines |
@@ -37,6 +36,7 @@ https://help.github.com/articles/ignoring-files/#create-a-global-gitignore[Ignor
 |kbd:[shift+cmd+right/left]  | select to end/beginning line |
 |kbd:[alt+q]                 | reflow paragraph | Reflow paragraph
 |kbd:[ctrl+cmd+space]        | select emoji |
+|⌘+k ⌘+f                     | format selection |
 |===
 
 Visual Studio Code – instalujemy rozszerzenia ułatwiające programowanie.
