@@ -1,12 +1,6 @@
-= Języki Programowania, 2018/19
+= Języki Programowania, 2019/2020
 :icons: font
 :experimental: true
-
-== http://www.learnenough.com[Learn Enough to Be Dangerous]
-
-* https://www.learnenough.com/command-line-tutorial[The Art of Command Line].
-* https://www.learnenough.com/text-editor-tutorial[Edytory dla programistów].
-* https://www.learnenough.com/git-tutorial[Git & GitHub].
 
 == Git
 
