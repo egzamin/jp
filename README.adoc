@@ -78,7 +78,3 @@ for ext in $extensions; do code --install-extensions $ext; done
 * https://github.com/jwasham/google-interview-university[Google Interview University] – lista zadań
   z https://github.com/jwasham/google-interview-university#data-structures[Data Structures].
 
-
-## Różne rzeczy…
-
-1. https://github.com/jlevy/the-art-of-command-line[The Art of Command Line].
